@@ -1,0 +1,13 @@
+streamlit==1.32.0
+pandas==2.2.1
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+sqlalchemy==2.0.29
+python-dotenv==1.0.1
+numpy==1.26.4
+tqdm==4.66.4
+transformers==4.37.2
+torch==2.2.1
+tokenizers==0.15.2
+openpyxl==3.1.2
+requests==2.31.0
